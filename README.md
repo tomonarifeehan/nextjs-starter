@@ -12,3 +12,8 @@ npm run dev
 ```
 npm install prisma typescript ts-node @types/node --save-dev
 ```
+
+**Initialize Prisma**
+```
+npx prisma init
+```
