@@ -7,3 +7,8 @@ npx create-next-app@latest --experimental-app
 ```
 npm run dev
 ```
+
+**Install Prisma ORM**
+```
+npm install prisma typescript ts-node @types/node --save-dev
+```
