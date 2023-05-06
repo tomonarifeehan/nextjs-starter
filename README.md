@@ -1,4 +1,4 @@
-**Next.js Project Starter**
+#Next.js Project Starter
 Next.js starter w/ Tailwind CSS + Prisma ORM + Railway + Google Authentication
 
 **Next.js Installation:**
