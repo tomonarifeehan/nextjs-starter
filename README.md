@@ -41,7 +41,8 @@ AUTH_SECRET=
 ```
 
 **For 'Authorized JavaScript origins' and 'Authorized redirect URIs' put the following values:**
+```
 http://localhost:3000
 http://localhost:3000/api/auth/callback/google
-
+```
 
