@@ -46,3 +46,8 @@ http://localhost:3000
 http://localhost:3000/api/auth/callback/google
 ```
 
+**Create Database Schema with Prisma Migrate:**
+```
+npx prisma migrate dev
+```
+
