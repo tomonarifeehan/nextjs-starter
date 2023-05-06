@@ -22,3 +22,8 @@ npx prisma init
 ```
 npm install @prisma/client
 ```
+
+**Create New PostgreSQL project in Railway[https://railway.app] and add connection string to .env file.**
+```
+DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/mydb?schema=public"
+```
